@@ -1,0 +1,62 @@
+{
+  "main": {
+    "allowEntityInteract": false,
+    "maxLoginTries": 1,
+    "kickTime": 60,
+    "enableGlobalPassword": false,
+    "globalPassword": null,
+    "tryPortalRescue": true,
+    "minPasswordChars": 4,
+    "maxPasswordChars": -1,
+    "usernameRegex": "^[a-zA-Z0-9_]{3,16}$",
+    "sessionTimeoutTime": 3600,
+    "spawnOnJoin": false,
+    "useMongoDB": false,
+    "MongoDBConnectionString": "mongodb://[username:password@]host[:port][/[defaultauthdb][?options]]",
+    "MongoDBDatabase": "EasyAuthPlayerData",
+    "premiumAutologin": false,
+    "forcedOfflinePlayers": [
+      ""
+    ],
+    "hideUnauthenticatedPLayersFromPlayerList": false
+  },
+  "worldSpawn": {
+    "dimension": null,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "lang": {
+    "globalPasswordSet": "Global password was successfully set!",
+    "userdataDeleted": "Userdata deleted.",
+    "userdataUpdated": "Userdata updated.",
+    "configurationReloaded": "Configuration file was reloaded successfully.",
+    "disallowedUsername": "Invalid username characters! Allowed character regex: %s",
+    "playerAlreadyOnline": "Player %s is already online!",
+    "worldSpawnSet": "Spawn for logging in was set successfully.",
+    "userNotRegistered": "This player is not registered!",
+    "offlineUuid": "Offline UUID for %s is %s",
+    "registeredPlayers": "List of registered players:\n"
+  },
+  "experimental": {
+    "preventAnotherLocationKick": true,
+    "playerInvulnerable": true,
+    "playerInvisible": true,
+    "allowChat": false,
+    "allowMovement": false,
+    "allowBlockUse": false,
+    "allowBlockPunch": false,
+    "allowItemDrop": false,
+    "allowItemMoving": false,
+    "allowItemUse": false,
+    "allowEntityPunch": false,
+    "debugMode": false,
+    "useBCryptLibrary": false,
+    "forcedOfflineUuids": false,
+    "useSimpleAuthDatabase": false,
+    "teleportationTimeoutInMs": 5,
+    "enableAliases": true
+  }
+}
