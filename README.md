@@ -38,9 +38,6 @@ Server requires clients to have Fabric Loader [FabricMC.net](https://fabricmc.ne
   Customizes player list.
 - Styled Chat [CurseForge](https://www.curseforge.com/minecraft/mc-mods/styled-player-list)
   Customizes chat.
-- Xaero's Minimap [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-  Minimap with additional HUD info.
-  Installed on server to enforce settings.
 - Skin Restorer [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skinrestorer)
   Fixes skins on offline servers.
 - EasyAuth [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easyauth)
