@@ -47,6 +47,10 @@ Server requires clients to have Fabric Loader [FabricMC.net](https://fabricmc.ne
   Adds authentication on offline servers.
 - ServerCore [CurseForge](https://www.curseforge.com/minecraft/mc-mods/servercore)
   General performance tweaks for servers.
+- Ledger [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ledger)
+  Block and container logging and rollback.
+- Fabric Language Kotlin [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+  Required by Ledger.
 
 ### Required client mods:
 - Fabric API [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
