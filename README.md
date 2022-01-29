@@ -16,7 +16,7 @@ Server requires clients to have Fabric Loader [FabricMC.net](https://fabricmc.ne
   General tech mod.
 - [Quarry Reborn](https://www.curseforge.com/minecraft/mc-mods/quarry-reborn) —
   Adds quarries to Tech Reborn.
-- [EZ Pipes and Stuff](https://www.curseforge.com/minecraft/mc-mods/styled-player-list) —
+- [Simple BC Pipes](https://www.curseforge.com/minecraft/mc-mods/simplepipes) —
   Pipes and filters.
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) —
   Improves server performance.
@@ -36,7 +36,7 @@ Server requires clients to have Fabric Loader [FabricMC.net](https://fabricmc.ne
   Increases server network stack performance.
 - [Styled Player List](https://www.curseforge.com/minecraft/mc-mods/styled-player-list) —
   Customizes player list.
-- [Styled Chat](https://www.curseforge.com/minecraft/mc-mods/styled-player-list) —
+- [Styled Chat](https://www.curseforge.com/minecraft/mc-mods/styled-chat) —
   Customizes chat.
 - [Skin Restorer](https://www.curseforge.com/minecraft/mc-mods/skinrestorer) —
   Fixes skins on offline servers.
@@ -56,7 +56,7 @@ Server requires clients to have Fabric Loader [FabricMC.net](https://fabricmc.ne
   General tech mod.
 - [Quarry Reborn](https://www.curseforge.com/minecraft/mc-mods/quarry-reborn) —
   Adds quarries to Tech Reborn.
-- [EZ Pipes and Stuff](https://www.curseforge.com/minecraft/mc-mods/styled-player-list) —
+- [Simple BC Pipes](https://www.curseforge.com/minecraft/mc-mods/simplepipes) —
   Pipes and filters.
 
 ### Recommended client mods for better server experience:
