@@ -4,7 +4,7 @@ Runs on Minecraft 1.18.1. Has some IndustrialCraft-like and BuildCraft-like thin
 
 ## Mods
 
-Server requires clients to have Fabric Loader [FabricMC.net](https://fabricmc.net/) and Fabric API [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
+Server requires clients to have [Fabric Loader](https://fabricmc.net/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
 
 ### Installed server mods:
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) —
